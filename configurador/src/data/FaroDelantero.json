@@ -1,0 +1,10 @@
+
+
+{
+    "header": "Faro",
+    "span": "Delantero",
+        "options":[
+            {"value":"faro delantero: halogeno", "title":"luces", "name":"farod","label":"Halógeno"},
+            {"value":"faro delantero: xenon","title":"luces", "name":"farod", "label":"Xenón"}
+        ]
+}

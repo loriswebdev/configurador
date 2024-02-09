@@ -1,0 +1,7 @@
+{   
+    "options":[
+        {"value":"Sensor alarma de punto ciego: si", "title":"seguridad", "name":"alarma","label":""},
+        {"value":"Sensor alarma de punto ciego: no","title":"seguridad", "name":"alarma", "label":""}
+        
+    ]
+}

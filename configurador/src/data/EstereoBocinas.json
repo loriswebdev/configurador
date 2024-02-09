@@ -1,0 +1,6 @@
+{
+    "options":[
+        {"value":"estereo-bocines: si", "title":"accessories", "name":"estereo","label":""},
+        {"value":"estereo-bocines: no","title":"accessories", "name":"estereo", "label":""}
+    ]
+}

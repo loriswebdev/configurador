@@ -1,0 +1,22 @@
+
+{ "accordions":
+    {
+    "summary": "asientos",
+    "groups":[
+        {"label":"Neumática T680/T880",
+        "options": [
+            {"value":"asientos y acabados: negro-t680", "label":"T680"},
+            {"value":"asientos y acabados: negro-t880", "label":"T880"}
+         ]}
+
+    
+        ]
+},
+"radios": {
+    "summary": "asientos-gris",
+    "options":[
+    {"value":"asientos-gris: si", "label":"gris"}
+]}}
+
+
+

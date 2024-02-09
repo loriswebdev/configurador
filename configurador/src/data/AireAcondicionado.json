@@ -1,0 +1,8 @@
+
+
+{
+        "options":[
+            {"value":"Aire acondicionado: si", "title":"accessories", "name":"aire","label":""},
+            {"value":"Aire acondicionado: no","title":"accessories", "name":"aire", "label":""}
+        ]
+}

@@ -1,0 +1,9 @@
+
+
+{
+    "header": "Rines",
+        "options":[
+            {"value":"aluminio", "title":"rines", "name":"rines","label":"Aluminio"},
+            {"value":"acero","title":"rines", "name":"rines", "label":"Acero"}
+        ]
+}

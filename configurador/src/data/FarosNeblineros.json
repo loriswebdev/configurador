@@ -1,0 +1,11 @@
+
+
+{
+    
+    "header": "Faros",
+    "span": "Neblineros",
+        "options":[
+            {"value":"faros neblineros: si", "title":"luces", "name":"farosn","label":"Si"},
+            {"value":"faros neblineros: no","title":"luces", "name":"farosn", "label":"No"}
+        ]
+}

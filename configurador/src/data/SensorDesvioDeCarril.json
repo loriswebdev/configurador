@@ -1,0 +1,7 @@
+{   
+    "options":[
+        {"value":"Sensor desvio de carril: si", "title":"seguridad", "name":"desvio","label":""},
+        {"value":"Sensor desvio de carril: no","title":"seguridad", "name":"desvio", "label":""}
+        
+    ]
+}

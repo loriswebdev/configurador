@@ -1,0 +1,9 @@
+
+
+{
+    "header": "Escape",
+        "options":[
+            {"value":"salida vertical tras dormitorio", "title":"escape", "name":"escape","label":"Salida Vertical tras dormitorio"},
+            {"value":"salida horizontal bajo dormitorio","title":"escape", "name":"escape", "label":"Salida Horizontal bajo dormitorio"}
+        ]
+}

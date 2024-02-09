@@ -1,0 +1,6 @@
+{
+    "options":[
+        {"value":"Consola de portavasos:  si", "title":"accessories", "name":"consola","label":""},
+        {"value":"Consola de portavasos:  no","title":"accessories", "name":"consola", "label":""}
+    ]
+}

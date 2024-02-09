@@ -1,0 +1,6 @@
+{
+    "options":[
+        {"value":"Volante de posiciones: si", "title":"accessories", "name":"posiciones","label":""},
+        {"value":"Volante de posiciones: no","title":"accessories", "name":"posiciones", "label":""}
+    ]
+}

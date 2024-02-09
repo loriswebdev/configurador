@@ -1,0 +1,12 @@
+
+
+{
+
+    "header": "Luces",
+    "span": "Traseras",
+    
+        "options":[
+            {"value":"salida vertical tras dormitorio", "title":"luces traseras", "name":"lucest","label":"LED"},
+            {"value":"salida horizontal bajo dormitorio","title":"luces traseras", "name":"lucest", "label":"Normal"}
+        ]
+}

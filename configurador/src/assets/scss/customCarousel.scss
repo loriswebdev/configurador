@@ -1,0 +1,37 @@
+.control-dots{
+    display: none;
+    
+}
+.thumbs-wrapper.axis-vertical{
+    display: none;
+}
+.carousel-status{
+    display: none;
+}
+.carousel.carousel-slider{
+    & .control-arrow{
+    display: none;
+}
+.slide{
+    & img{
+        object-fit: contain;
+    }
+}
+}
+.model-carousel{
+    & div{
+        &.carousel-root{
+            position: absolute;
+            top: 125px;
+            left: 40%;
+        &.tablet, &.mobile{
+            position: relative;
+            top: unset;
+            left: unset;
+        }
+        &.laptop{
+            
+        }
+       
+    }}
+}

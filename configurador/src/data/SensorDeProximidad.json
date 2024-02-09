@@ -1,0 +1,7 @@
+{   
+    "options":[
+        {"value":"Sensor de proximidad o impacto: si", "title":"seguridad", "name":"impacto","label":""},
+        {"value":"Sensor de proximidad o impacto: no","title":"seguridad", "name":"impacto", "label":""}
+        
+    ]
+}

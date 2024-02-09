@@ -1,0 +1,7 @@
+{   
+    "options":[
+        {"value":"gris", "title":"accessories-interior", "name":"color","label":"Gris"},
+        {"value":"rojo","title":"accessories-interior", "name":"color", "label":"Rojo"},
+        {"value":"naranja","title":"accessories-interior", "name":"color", "label":"Naranja"}
+    ]
+}

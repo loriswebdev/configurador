@@ -1,0 +1,9 @@
+
+
+{
+    "header": "LLantas",
+        "options":[
+            {"value":"24.5", "title":"llantes", "name":"llantes","label":"24.5"},
+            {"value":"22.5","title":"llantes", "name":"llantes", "label":"22.5"}
+        ]
+}

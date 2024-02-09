@@ -1,0 +1,28 @@
+
+    {
+        "summary": "transmision",
+        "groups":[
+            {"label":"6 Velocidades",
+            "options": [
+                {"value":"6 Velocidades: t370", "label":"T370"}
+             ]},
+            {"label":"18 Velocidades",
+            "options": [
+                {"value":"18 Velocidades: t680", "label":"T680"},
+                {"value":"18 Velocidades: t880", "label":"T880"}
+             ]},
+            {"label":"Automatica",
+            "options": [
+                {"value":"Automatica: t680", "label":"T680"},
+                {"value":"Automatica: t880", "label":"T880"}
+             ]},
+            {"label":"Estandar",
+            "options": [
+                {"value":"Estandar: t370", "label":"T370"},
+                {"value":"Estandar: t680", "label":"T680"},
+                {"value":"Estandar: t880", "label":"T880"}
+             ]}
+        
+            ]
+    }
+ 

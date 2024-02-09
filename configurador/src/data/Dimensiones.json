@@ -1,0 +1,9 @@
+
+{
+    "header": "Dimensiones",
+        "options":[
+            {"value":"dimensiones : aplicacion full", "title":"luces", "name":"dimensiones","label":"Aplicación Full"},
+            {"value":"dimensiones : aplicacion sencillo","title":"luces", "name":"dimensiones", "label":"Aplicación Sencillo"}
+        ]
+}
+

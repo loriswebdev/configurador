@@ -1,0 +1,147 @@
+[
+{
+        "model": "680",
+        "alt":"",
+        "nextGen": true,
+        "color": "red",
+        "url":"https://kwjalisco.com/wp-content/uploads/2023/12/T680-Next-Gen-ROJO.png",
+        "id": "",
+        "className":""
+},
+{
+"model": "680",
+"alt":"",
+"nextGen": true,
+"color": "blue",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T680-Next-Gen-AZUL.png",
+"id": "",
+"className":""
+},
+{
+"model": "680",
+"alt":"",
+"nextGen": true,
+"color": "grey",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T680-Next-Gen-GRIS.png",
+"id": "",
+"className":""
+},
+{
+"model": "680",
+"alt":"",
+"nextGen": true,
+"color": "white",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T680-Next-Gen-BLANCO.png",
+"id": "",
+"className":""
+},
+{
+"model": "680",
+"alt":"",
+"nextGen": false,
+"color": "red",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T680-rojo.png",
+"id": "",
+"className":""
+},
+{
+"model": "680",
+"alt":"",
+"nextGen": false,
+"color": "blue",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T680-azul.png",
+"id": "",
+"className":""
+},
+{
+"model": "680",
+"alt":"",
+"nextGen": false,
+"color": "grey",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T680-rplata.png",
+"id": "",
+"className":""
+},
+{
+"model": "680",
+"alt":"",
+"nextGen": false,
+"color": "white",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T680-blanco.png",
+"id": "",
+"className":""
+},
+{
+"model": "880",
+"alt":"",
+"nextGen": false,
+"color": "red",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T880-rojo.png",
+"id": "",
+"className":""
+},
+{
+"model": "880",
+"alt":"",
+"nextGen": false,
+"color": "blue",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T880-azul.png",
+"id": "",
+"className":""
+},
+{
+"model": "880",
+"alt":"",
+"nextGen": false,
+"color": "grey",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T880-plata.png",
+"id": "",
+"className":""
+},
+{
+"model": "880",
+"alt":"",
+"nextGen": false,
+"color": "white",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T880-blanco.png",
+"id": "",
+"className":""
+},
+{
+"model": "370",
+"alt":"",
+"nextGen": false,
+"color": "red",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T370-rojo.png",
+"id": "",
+"className":""
+},
+{
+"model": "370",
+"alt":"",
+"nextGen": false,
+"color": "blue",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T370-azul.png",
+"id": "",
+"className":""
+},
+{
+"model": "370",
+"alt":"",
+"nextGen": false,
+"color": "grey",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T370-plata.png",
+"id": "",
+"className":""
+},
+{
+"model": "370",
+"alt":"",
+"nextGen": false,
+"color": "white",
+"url":"https://kwjalisco.com/wp-content/uploads/2023/12/T370-blanco.png",
+"id": "",
+"className":""
+}
+
+]

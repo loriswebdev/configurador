@@ -1,0 +1,23 @@
+
+{ "accordions":
+    {
+    "summary": "suspension",
+    "groups":[
+        {"label":"Neumática T680/T880",
+        "options": [
+            {"value":"Neumática T680/T880: 4 bolsas", "label":"4 Bolsas"},
+            {"value":"Neumática T680/T880: 8 bolsas", "label":"8 Bolsas"}
+         ]}
+
+    
+        ]
+},
+"radios": {
+    "summary": "suspension",
+    "options":[
+    {"value":"Neumática T370", "label":"Neumática T370"},
+    {"value":"Mecánica T370", "label":"Mecánica T370"}
+]}}
+
+
+

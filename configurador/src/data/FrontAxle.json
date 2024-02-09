@@ -1,0 +1,24 @@
+
+{
+    "summary": "delantero",
+    "groups":[
+        {"label":"12,000lbs",
+        "options": [
+            {"value":"Delantero 12,000lbs: t370", "label":"T370"}
+         ]},
+        {"label":"13,200 lbs",
+        "options": [
+            {"value":"Delantero 13,200 lbs: t370", "label":"T370"},
+            {"value":"Delantero 13,200 lbs: t680", "label":"T680"},
+            {"value":"Delantero 13,200 lbs: t880", "label":"T880"}
+         ]},
+        {"label":"14,200 lbs",
+        "options": [
+            {"value":"Delantero 14,200 lbs: t680", "label":"T680"},
+            {"value":"Delantero 14,200 lbs: t880", "label":"T880"}
+         ]}
+
+    
+        ]
+}
+

@@ -1,0 +1,23 @@
+
+{
+    "summary": "trasero",
+    "groups":[
+        {"label":"23,000 lbs",
+        "options": [
+            {"value":"Trasero 23,000 lbs: t370", "label":"T370"}
+         ]},
+        {"label":"13,200 lbs",
+        "options": [
+            {"value":"Trasero 13,200 lbs: t370", "label":"T370"},
+            {"value":"Trasero 13,200 lbs: t680", "label":"T680"},
+            {"value":"Trasero 13,200 lbs: t880", "label":"T880"}
+         ]},
+        {"label":"46,000 lbs",
+        "options": [
+            {"value":"Trasero 46,000 lbs: t680", "label":"T680"},
+            {"value":"Trasero 46,000 lbs: t880", "label":"T880"}
+         ]}
+
+    
+        ]
+}

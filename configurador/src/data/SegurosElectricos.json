@@ -1,0 +1,6 @@
+{
+    "options":[
+        {"value":"Seguros eléctricos:  si", "title":"accessories", "name":"seguros","label":""},
+        {"value":"Seguros eléctricos:  no","title":"accessories", "name":"seguros", "label":""}
+    ]
+}

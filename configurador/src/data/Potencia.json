@@ -1,0 +1,28 @@
+
+{
+    "summary": "potencia",
+    "groups":[
+
+        {"label":"400",
+        "options": [
+            {"value":"potencia 400: 680", "label":"680"},
+            {"value":"potencia 400: 880", "label":"880"}
+         ]},
+        {"label":"450",
+        "options": [
+            {"value":"potencia 450: falta", "label":"Falta"},
+            {"value":"potencia 450: falta01", "label":"Falta01"}
+         ]},
+        {"label":"220",
+        "options": [
+            {"value":"potencia 220: t370", "label":"t370"}
+         ]},
+         {"label":"315",
+         "options": [
+             {"value":"potencia 315: falta", "label":"Falta"},
+             {"value":"potencia 315: falta01", "label":"Falta01"}
+          ]}
+    
+        ]
+}
+

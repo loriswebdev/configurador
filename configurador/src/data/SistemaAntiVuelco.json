@@ -1,0 +1,7 @@
+{   
+    "options":[
+        {"value":"Sistema antivuelco: si", "title":"seguridad", "name":"antivuelco","label":""},
+        {"value":"Sistema antivuelco: no","title":"seguridad", "name":"antivuelco", "label":""}
+        
+    ]
+}

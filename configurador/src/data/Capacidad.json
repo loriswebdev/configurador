@@ -1,0 +1,5 @@
+{"summary": "capacidad",
+    "options":[
+    {"value":"tanque combustible", "label":"Tanque Combustible"},
+    {"value":"tanque urea", "label":"Tanque Urea"}
+    ]}
